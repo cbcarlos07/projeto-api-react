@@ -13,6 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "-": "0.0.1",
+    "@types/hapi__joi": "^17.1.2",
+    "D": "^1.0.0",
+    "celebrate": "^12.1.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "knex": "^0.21.1",

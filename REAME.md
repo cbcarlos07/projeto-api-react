@@ -25,3 +25,13 @@ https://unsplash.com/
 
     Serialização
     API transform
+
+
+# Validação no backend
+
+    https://github.com/arb/celebrate
+
+    caso o packete seja assim @hapi/joi
+    npm i @types/hapi__joi - D 
+
+    https://github.com/jquense/yup

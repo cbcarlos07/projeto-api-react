@@ -20,3 +20,8 @@ Executar migrations
 # Site de imagens
 
 https://unsplash.com/
+
+# Pesquisar sobre
+
+    Serialização
+    API transform
